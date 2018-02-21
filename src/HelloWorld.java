@@ -7,5 +7,6 @@ public class HelloWorld {
 
     public static void showWelcomeMessage() {
         System.out.println("Hello World");
+        System.out.println("Say more stuff");
     }
 }
